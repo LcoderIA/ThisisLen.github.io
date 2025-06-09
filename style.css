@@ -6,6 +6,7 @@ body {
   text-align: center;
   padding: 50px;
 }
+
 h1, h2, .logo {
   font-weight: 300; /* Slightly bolder than body */
 }
