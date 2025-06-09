@@ -1,7 +1,11 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-weight:100; /* Light regular*/
   background-color: #111;
   color: #eee;
   text-align: center;
   padding: 50px;
+}
+h1, h2, .logo {
+  font-weight: 300; /* Slightly bolder than body */
 }
